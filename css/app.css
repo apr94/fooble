@@ -1,0 +1,27 @@
+/* app css stylesheet */
+
+#SearchDiv
+{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	height: 100px;
+	margin-top: -50px;
+	width: 500px;
+	margin-left: -250px;
+}
+
+input
+{
+	border: transparent;
+	padding: 4px;
+	height: 58px;
+	font-size: 50px;
+	width: 500px;
+	background-color: #000000;
+}
+
+body
+{
+	background-color: #000000;
+}
